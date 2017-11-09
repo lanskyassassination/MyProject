@@ -2,11 +2,6 @@
 #include <stdlib.h>
 #define SIZE 5
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> master
 void modifyArray(int b[], int size);
 void modifyElement(int e);
 
@@ -53,8 +48,4 @@ void modifyElement(int e)
 {
 	printf("Value in modifyElement is %d\n", e *= 2);
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> master
